@@ -9,7 +9,7 @@
 
 - 🤝 I’m a Freelancer and have successfully completed multiple projects for the clients **.**
 
-- 🤓 I'm also a game developer and have worked with Unity, Unreal Engine, and Godot (Unreal is my Fav ❤) **.**
+- 🤓 I'm also a game developer and have worked with Unity, Unreal Engine, and Godot (Unity is my Fav ❤) **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
